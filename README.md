@@ -1,99 +1,31 @@
-## Hello World :wave:
+<h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-<!--
-![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsh12&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsh12" /> </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<p align="left"> <a href="https://twitter.com/nishant122703" target="blank"><img src="https://img.shields.io/twitter/follow/nishant122703?logo=twitter&style=for-the-badge" alt="nishant122703" /></a> </p>
 
-I am a 3rd Year Undergrad pursuing Bachelors in Computer Science Engineering with specialisation Big Data Analytics from Chandigarh University. <br><br>
-A *Technophile* <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a *Coding Enthusiast* <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
+- 🔭 I’m currently working on [Dyanmic Dashboard](https://www.novypro.com/project/dyanmic-report-of-datasales)
 
+- 🌱 I’m currently learning **Machine learning**
 
+- 👨‍💻 All of my projects are available at [https://nishantshportfolio.netlify.app/](https://nishantshportfolio.netlify.app/)
 
-<!-- Coder GIF -->
-<br>
-<img align="right" alt="Coding" width="500" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+- 💬 Ask me about **Data Analyst**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANSHCHAWLA119&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
+- 📫 How to reach me **nishantsharma30153@gmail.com**
 
-<!-- About -->
-<p>
-  
-- 👋 Hi, I'm Nishant Sharma
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
-- 📝 Checkout my [Resume]()
+- ⚡ Fun fact **I am freindly in nature!**
 
-- 👨‍💻 Data Analyst
-
-- 🏏 Cricket
-
-- 🌱 I’m currently learning *Data Analysis , Data Science , Machine Learning*
-
-- 💬 Ask me about *Data Analysis, web development*
-  
-- 📍 Location - Faridabad, Harayana
-  
-- 🔭 Learning - Exploring - Improving 😶
-
-- 📫 How to reach me *nishantsharma30153@gmail.com*
-</p>
-<br><br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/nishant-sharma-12a150229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul nair" height="30" width="40" /></a>
-src="https://github.com/ANSHCHAWLA119/ANSHCHAWLA119/blob/main/gfg.png" alt="rahul_nair" height="30" width="40" /></a>
-<a href="https://leetcode.com/anshchawla2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_nair, u4cse20259" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nishant122703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant122703" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishantsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantsharma" height="30" width="40" /></a>
 </p>
 
-<br>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<!-- Languages and Tools -->
-<p align="center">⚙Languages and Tools⚙</p>
-<p align="center">
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> &nbsp;
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="pandas" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
-<p align="center"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ANSHCHAWLA119/ANSHCHAWLA119/blob/main/react.png" alt="seaborn" width="40" height="40"/> </a>
-</p>
-<br>
-
-
-
-<!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSHCHAWLA119&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Stats"/>
-</p>
-
-    
-
-<!-- GitHub Statistics -->
-<p align="center">📊GitHub Statistics📊</p>
-
-<!-- GitHub-Stats -->
-<p align="Center">
-<img src="https://github-readme-stats.vercel.app/api?username=ANSHCHAWLA119&show_icons=true&locale=en&theme=tokyonight" alt="Stats"/>
-<br> <br>
-
-
-<!-- Repositories and Projects -->
-<p align="center">📖Repositories and Projects📖</p>
-<p align="center">
-<a href="https://github.com/ANSHCHAWLA119/Diwali-Sales-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=Diwali-Sales-Analysis&theme=tokyonight" alt="Diwali Sales Analysis" />
-</a>
-<a href="https://github.com/ANSHCHAWLA119/Walmart-Sales-Insights">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=Walmart-Sales-Insights&theme=tokyonight" alt="Walmart Sales Insights" />
-</a>
-<a href="https://github.com/ANSHCHAWLA119/customer-segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=customer-segmentation&theme=tokyonight" alt="Customer Segmentation" />
-</a>
-<a href="https://github.com/ANSHCHAWLA119/TitanicDataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=TitanicDataset&theme=tokyonight" alt="Titanic Dataset" />
-</a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantsh12&show_icons=true&locale=en" alt="nishantsh12" /></p>
