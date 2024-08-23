@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsh12&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsh12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nishant122703" target="blank"><img src="https://img.shields.io/twitter/follow/nishant122703?logo=twitter&style=for-the-badge" alt="nishant122703" /></a> </p>
 
-- 🔭 I’m currently working on [Dyanmic Dashboard](https://www.novypro.com/project/dyanmic-report-of-datasales)
-
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data Engineer Skills like Airflow,Nifi**
 
 - 👨‍💻 All of my projects are available at [https://nishantshportfolio.netlify.app/](https://nishantshportfolio.netlify.app/)
 
-- 💬 Ask me about **Data Analyst**
+- 💬 Ask me about **Data Engineer**
 
 - 📫 How to reach me **nishantsharma30153@gmail.com**
 
