@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Engineer Skills like Airflow,Nifi**
 
-- 👨‍💻 All of my projects are available at [https://nishantshportfolio.netlify.app/](https://nishantshportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at ([https://nishantshportfolio.netlify.app/)](https://github.com/NishantSh12)
 
 - 💬 Ask me about **Data Engineer**
 
